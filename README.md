@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on web/iOS apps that leverage AI/ML
 - 📫 Reach me by emailing me at sp4050@columbia**dot**edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: when I was growing up, people thought I looked like harry potter
+- ⚡ Fun fact: when I was growing up, people thought I looked like harry potter. They don't say that anymore. 
