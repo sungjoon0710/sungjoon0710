@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @sungjoon0710
-- 👀 I’m interested in climate science, AI/ML applications, and nature stuff
-- 🌱 I’m currently learning how to develop react native iOS/web applications by implementing features on the front end
-- 💞️ I’m looking to collaborate on web/iOS apps that leverage AI/ML
-- 📫 Reach me by emailing me at sp4050@columbia**dot**edu
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: when I was growing up, people thought I looked like harry potter. 
+Play Earth.ly at [https://earth-ly-1094680398907.us-central1.run.app](https://earth-ly-1094680398907.us-central1.run.app)!
